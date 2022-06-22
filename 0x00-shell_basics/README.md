@@ -11,3 +11,4 @@ First directory
 moving file
 Delete a file in tmp/first_directory
 Deleting my_first_directory
+Changing working directory
