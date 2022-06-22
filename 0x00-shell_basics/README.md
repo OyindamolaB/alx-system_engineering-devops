@@ -8,3 +8,4 @@ All hidden files
 First directory
 First directory
 First directory
+moving file
