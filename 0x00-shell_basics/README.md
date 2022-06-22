@@ -3,3 +3,4 @@ List contents
 Directory contents
 Hidden Files
 Hidden Files
+ Directory contents
