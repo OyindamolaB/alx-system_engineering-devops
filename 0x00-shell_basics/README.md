@@ -5,3 +5,4 @@ Copying html files
 Moving files
 Deleting all files
 Creating Directories
+Series of commas
