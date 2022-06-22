@@ -6,3 +6,4 @@ Moving files
 Deleting all files
 Creating Directories
 Series of commas
+Creating magic
