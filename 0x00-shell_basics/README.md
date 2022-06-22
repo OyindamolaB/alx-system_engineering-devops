@@ -5,3 +5,4 @@ Hidden Files
 Hidden Files
  Directory contents
 All hidden files
+First directory
