@@ -5,3 +5,4 @@ Script to change owner
 Creating an empty file
 Executive permission
 Execute multiple permissions
+Execute permission to everybody
