@@ -6,3 +6,4 @@ Creating an empty file
 Executive permission
 Execute multiple permissions
 Execute permission to everybody
+Setting permissions
