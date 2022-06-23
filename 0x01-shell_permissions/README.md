@@ -7,3 +7,4 @@ Executive permission
 Execute multiple permissions
 Execute permission to everybody
 Setting permissions
+Setting the mode of the file
