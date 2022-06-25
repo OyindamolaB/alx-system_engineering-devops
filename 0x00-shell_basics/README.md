@@ -8,3 +8,4 @@ Creating Directories
 Series of commas
 Creating magic
 Magic files
+Creating a magic file
