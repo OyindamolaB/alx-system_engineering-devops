@@ -15,3 +15,4 @@ Deleting Files
 Displaying all directories
 Displaying newest files
 List of words
+ Displaying lines containing the patter
