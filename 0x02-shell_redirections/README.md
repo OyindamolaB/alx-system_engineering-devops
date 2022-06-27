@@ -11,3 +11,4 @@ Displaying the third line
 Creates File
 Writing into file
 Duplicating last line
+Deleting Files
