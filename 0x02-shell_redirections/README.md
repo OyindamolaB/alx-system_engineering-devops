@@ -16,3 +16,4 @@ Displaying all directories
 Displaying newest files
 List of words
  Displaying lines containing the patter
+Count number of lines
