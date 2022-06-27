@@ -24,3 +24,6 @@ Displaying all the lines
 Removing letter C
 Reversing input
 Displaying all users
+@Displaying empty files and directories >> README.md
+echo @Displaying empty files and directories
+Displaying empty files and directories
