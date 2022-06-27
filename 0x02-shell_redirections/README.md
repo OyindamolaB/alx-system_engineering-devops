@@ -3,3 +3,7 @@ Prints Hello,World
 Display contents
 Displaying contents from two files
 Displaying last 10 lines
+@Displaying first 10 lines >> README.md
+
+echo @Displaying first 10 lines
+Displaying first 10 lines
