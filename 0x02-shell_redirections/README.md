@@ -14,3 +14,4 @@ Duplicating last line
 Deleting Files
 Displaying all directories
 Displaying newest files
+List of words
