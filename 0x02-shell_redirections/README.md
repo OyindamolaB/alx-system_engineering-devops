@@ -17,3 +17,4 @@ Displaying newest files
 List of words
  Displaying lines containing the patter
 Count number of lines
+Displaying lines with pattern root
