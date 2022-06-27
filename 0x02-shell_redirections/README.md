@@ -18,3 +18,4 @@ List of words
  Displaying lines containing the patter
 Count number of lines
 Displaying lines with pattern root
+Displaying lines in the file that contain the pattern bin
