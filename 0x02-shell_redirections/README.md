@@ -28,3 +28,4 @@ Displaying all users
 echo @Displaying empty files and directories
 Displaying empty files and directories
 Displaying files as gifs
+Decoding acrostic
