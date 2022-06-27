@@ -10,3 +10,4 @@ Displaying first 10 lines
 Displaying the third line
 Creates File
 Writing into file
+Duplicating last line
