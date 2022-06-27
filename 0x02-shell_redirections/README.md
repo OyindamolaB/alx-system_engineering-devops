@@ -9,3 +9,4 @@ echo @Displaying first 10 lines
 Displaying first 10 lines
 Displaying the third line
 Creates File
+Writing into file
