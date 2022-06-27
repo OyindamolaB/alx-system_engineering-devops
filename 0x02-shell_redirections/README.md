@@ -13,3 +13,4 @@ Writing into file
 Duplicating last line
 Deleting Files
 Displaying all directories
+Displaying newest files
