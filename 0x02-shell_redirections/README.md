@@ -22,3 +22,4 @@ Displaying lines in the file that contain the pattern bin
 Displaying all the lines
  Replace characters
 Removing letter C
+Reversing input
