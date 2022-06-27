@@ -12,3 +12,4 @@ Creates File
 Writing into file
 Duplicating last line
 Deleting Files
+Displaying all directories
