@@ -4,3 +4,4 @@ Adding action PATH
 Count the number of directories
 Lists environmental variables
 Lists all local and variables
+Creating a new local variable
