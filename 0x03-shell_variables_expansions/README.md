@@ -14,3 +14,4 @@ Converting numbers
 Print all combinations
 Printing number with two decimal places
 Converting numbers
+Encodes and decodes text
