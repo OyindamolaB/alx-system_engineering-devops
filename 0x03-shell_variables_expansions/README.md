@@ -6,3 +6,4 @@ Lists environmental variables
 Lists all local and variables
 Creating a new local variable
 Creating a new local variable
+Creates a new global variable
