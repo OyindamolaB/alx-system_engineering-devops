@@ -8,3 +8,4 @@ Creating a new local variable
 Creating a new local variable
 Creates a new global variable
 Addition of 128
+Result of Power and Divide
