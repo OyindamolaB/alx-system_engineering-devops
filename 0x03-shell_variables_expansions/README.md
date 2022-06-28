@@ -15,3 +15,4 @@ Print all combinations
 Printing number with two decimal places
 Converting numbers
 Encodes and decodes text
+Prints every line from the input
