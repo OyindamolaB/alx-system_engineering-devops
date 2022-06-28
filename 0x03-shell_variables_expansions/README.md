@@ -16,3 +16,4 @@ Printing number with two decimal places
 Converting numbers
 Encodes and decodes text
 Prints every line from the input
+Adds two numbers stored in water and stir
