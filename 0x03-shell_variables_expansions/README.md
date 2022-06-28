@@ -11,3 +11,4 @@ Addition of 128
 Result of Power and Divide
 Display result of breath and love
 Converting numbers
+Print all combinations
